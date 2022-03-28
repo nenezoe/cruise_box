@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33824326486",
+    "project_id": "cruise-boxx",
+    "storage_bucket": "cruise-boxx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33824326486:android:8b0b6ec4c6cb96dbd18cf7",
+        "android_client_info": {
+          "package_name": "com.boxcruise.cruise_box"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33824326486-q9as1pu657ehs1macm26o095u7garte9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr-XPeLyDq-4s28ayBFHCoHvTZ2uwTUFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33824326486-q9as1pu657ehs1macm26o095u7garte9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
